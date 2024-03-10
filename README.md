@@ -35,7 +35,7 @@ Find me on:
 #### And Messing Around With 🐒
 [![Lua Badge](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)](https://www.lua.org/)
 [![Love2D Badge](https://img.shields.io/badge/Love2D-pink?style=for-the-badge&logo=lua&logoColor=white)](https://www.love2d.org/)
-[![Godot Badge](https://img.shields.io/badge/Godot-blue?style=for-the-badge&logo=lua&logoColor=white))](https://godotengine.org/)
+[![Godot Badge](https://img.shields.io/badge/Godot-blue?style=for-the-badge&logo=lua&logoColor=white)](https://godotengine.org/)
 
 #### My Stats 📊
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=matt-viner&langs_count=5&theme=tokyonight)]()

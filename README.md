@@ -21,9 +21,9 @@ Find me on:
 [![VSCode Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
 [![Git Badge](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![Airflow Badge](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)](https://airflow.apache.org/)
-[![Terraform Badge](https://img.shields.io/badge/Terraform-purple?style=for-the-badge)](https://www.terraform.io/)
+[![Terraform Badge](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)](https://www.terraform.io/)
 [![Terratest Badge](https://img.shields.io/badge/Terratest-brown?style=for-the-badge)](https://terratest.gruntwork.io/)
-[![BigQuery Badge](https://img.shields.io/badge/BigQuery-green?style=for-the-badge)](https://cloud.google.com/bigquery/)
+[![BigQuery Badge](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)](https://cloud.google.com/bigquery/)
 [![Vertex AI Badge](https://img.shields.io/badge/Vertex_AI-blue?style=for-the-badge)](https://cloud.google.com/vertex-ai)
 
 #### Currently Learning 🧑‍🎓
@@ -35,7 +35,7 @@ Find me on:
 #### And Messing Around With 🐒
 [![Lua Badge](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)](https://www.lua.org/)
 [![Love2D Badge](https://img.shields.io/badge/Love2D-pink?style=for-the-badge&logo=lua&logoColor=white)](https://www.love2d.org/)
-[![Godot Badge](https://img.shields.io/badge/Godot-blue?style=for-the-badge&logo=lua&logoColor=white)](https://godotengine.org/)
+[![Godot Badge](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)](https://godotengine.org/)
 
 #### My Stats 📊
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=matt-viner&langs_count=5&theme=tokyonight)]()
